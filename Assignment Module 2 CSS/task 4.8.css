@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
 }
-.abc {
+
+.container-maindiv {
     border: 2px solid grey;
     height: 115px;
     width: 300px;
@@ -15,12 +16,13 @@ h3 {
     color: white;
 }
 
-.abcd {
+.container-subdiv {
     border: 2px solid black;
     height: 115px;
     width: 300px;
 }
-p{
+
+p {
     margin-top: 10px;
     margin-left: 10px;
 }
@@ -28,7 +30,8 @@ p{
 table {
     margin-left: 10px;
 }
-.d {
+
+.table-row {
     border: 1px solid black;
 }
 
@@ -36,6 +39,7 @@ table {
     display: flex;
     gap: 20px;
 }
+
 .containerb {
     display: flex;
     gap: 20px;
